@@ -5,6 +5,6 @@ This web based trivia game will test your knowledge about the Champions in Leagu
  
  
 ###Live Url
->> http://championmaster.danielbgomez.com/
+>http://championmaster.danielbgomez.com/
 
 *Under Construction!
